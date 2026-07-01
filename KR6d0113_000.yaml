@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0113/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛三昧經論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T34/T34n1730.xml
+    old_id: T34n1730
+hash: sha256:a56262b3de569f180a4d5679ae5641f62cb69fa128b2477accb28236f725f0f8
